@@ -1,4 +1,4 @@
 Um texto de uma aula de exemplo
 
-Outra linha incrível escrita muito perdido
+Outra linha incrível escrita
 
