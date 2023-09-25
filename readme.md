@@ -1,4 +1,4 @@
-Um texto de uma aula de exemplo
+Um texto de uma aula de verdade
 
-Outra linha incrível escrita
+Outra linha incrível leitura
 
